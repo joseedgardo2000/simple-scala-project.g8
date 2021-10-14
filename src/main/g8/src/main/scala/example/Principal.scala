@@ -1,7 +1,7 @@
 
 object Principal {
   def main(args:Array[String]):Unit = {
-    println("============= $nombre$  =============")
+    println("============= $name$  =============")
     //TODO
     println("============= ========  =============")
   }
